@@ -36,6 +36,5 @@ public class MatrixAddition {
             }
             System.out.println();
         }
-        scanner.close();
     }
 }

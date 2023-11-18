@@ -49,6 +49,5 @@ public class MatrixMultiplication {
             }
 
         }
-        scanner.close();
     }
 }
