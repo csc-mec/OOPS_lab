@@ -11,10 +11,10 @@ public class MatrixMultiplication {
         int k = scanner.nextInt();
 
         if(n1 != n){
-            System.out.println("Err : Cannot prerform operation");
+            System.out.println("Cannot perform multiplication on A and B");
         }
         else{
-            System.out.println("Enter Matrix A["+m+"]["+n+"]");
+            System.out.println("Enter Matrix A");
             int[][] A = new int[m][n];
             for(int  i=0; i<m;i++){
                 for(int j=0; j<n;j++){
@@ -22,7 +22,7 @@ public class MatrixMultiplication {
                 }
             }
 
-            System.out.println("Enter Matrix A["+n+"]["+k+"]");
+            System.out.println("Enter Matrix B");
             int[][] B = new int[n][k];
             for(int  i=0; i<n;i++){
                 for(int j=0; j<k;j++){
