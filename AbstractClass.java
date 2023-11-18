@@ -18,7 +18,7 @@ class Hexagon extends Shape{
 	}
 }
 
-public class Abstract {
+public class AbstractClass {
 
 	public static void main(String[] args) {
 		Scanner p=new Scanner(System.in);
