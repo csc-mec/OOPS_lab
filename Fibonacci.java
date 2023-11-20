@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Fibonocci {
+public class Fibonacci {
     public static void main(String[] args) {
         // Create a Scanner object for user input
         Scanner P = new Scanner(System.in);
