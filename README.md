@@ -11,7 +11,7 @@
 | 1b | Frequency of a given character | TBD |
 | 1c | Matrix Multiplication | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/MatrixMultiplication.java) |
 ||Object Oriented Programing Concepts|
-| 2a | Inheritance in Java | TBD |
+| 2a | Inheritance in Java | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/InheritanceExample.java) |
 | 2b | Polymorphism in Java | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/AbstractClass.java) |
 | 2c | Garbage Collection in Java | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/GarbageCollector.java) |
 
