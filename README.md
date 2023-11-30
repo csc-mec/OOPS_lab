@@ -14,6 +14,7 @@
 | 2a | Inheritance in Java | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/InheritanceExample.java) |
 | 2b | Polymorphism in Java | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/AbstractClass.java) |
 | 2c | Garbage Collection in Java | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/GarbageCollector.java) |
+| 2d | Function Overloading in Java | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/FunctionOverloading.java) |
 
 ### Other programs
 
