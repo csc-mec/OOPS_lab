@@ -1,8 +1,6 @@
 <h1 align="center">OOP LAB</h1>
 
-## Contents
-
-### Lab record programs
+## Lab record programs
 
 | S.No | Name | Url
 |------|:------|--|
@@ -16,9 +14,11 @@
 | 2c | Garbage Collection in Java | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/GarbageCollector.java) |
 | 2d | Function Overloading in Java | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/FunctionOverloading.java) |
 
-### All Programs
+## All Programs
 
-| S.No | Basic Java Programs                  | Url |
+### Basic Programs
+
+| S.No | Name                  | Url |
 |------|:----------------------|:----|
 | 1    | String Palindrome     | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/StringPalindrome.java) |
 | 2    | Frequency of a given character | TBD |
@@ -27,27 +27,35 @@
 | 5    | Fibonacci Series       | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Fibonacci.java) |
 | 6    | Number Palindrome      | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/StringPalindrome.java) |
 
-| S.No | OOP Concepts                         | Url |
+### Object Oriented Programming
+
+| S.No | Name                         | Url |
 |------|:-----------------------------|:----|
 | 7    | Inheritance in Java          | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/InheritanceExample.java) |
 | 8    | Polymorphism in Java         | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/AbstractClass.java) |
 | 9    | Garbage Collection in Java   | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/GarbageCollector.java) |
 | 10   | Function Overloading in Java  | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/FunctionOverloading.java) |
 
-| S.No | GUI Programming                        | Url |
+### GUI Programming
+
+| S.No | Name                        | Url |
 |------|:----------------------------|:----|
 | 11   | Swing Demo                  | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/SwingDemo.java) |
 | 12   | Calculator using Swing      | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/CalculatorSwing.java) |
 | 13   | Traffic Light Using Swing   | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/TrafficLightSwing.java) |
 
-| S.No | File Handling                       | Url |
+### File Handling
+
+| S.No | Name                       | Url |
 |------|:---------------------------|:----|
 | 14   | File Handling              | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/FileHandling.java) |
 | 15   | String Tokenizer           | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/StringTokenizerExample.java) |
 | 16   | Writing Prime Numbers Onto File | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/prime_txt.java) |
 | 17   | Sum Of Numbers In A File    | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Sum_ofintegers.java) |
 
-| S.No | Others                   | Url |
+### Others
+
+| S.No | Name                   | Url |
 |------|:-----------------------|:----|
 | 18   | Merge Sort              | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/MergeSort.java) |
 | 19   | Exception Handling      | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/ExceptionHandlingDemo.java) |
