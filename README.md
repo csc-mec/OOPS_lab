@@ -28,4 +28,5 @@
 | File Handling | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/FileHandling.java) |
 | String Tokenizer | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/StringTokenizerExample.java) |
 | Swing Demo | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/SwingDemo.java) |
+| Mulitple Thread Creation | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Multiple_thread_creation.java) |
 
