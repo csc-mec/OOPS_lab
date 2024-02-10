@@ -16,22 +16,39 @@
 | 2c | Garbage Collection in Java | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/GarbageCollector.java) |
 | 2d | Function Overloading in Java | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/FunctionOverloading.java) |
 
-### Other programs
+### All Programs
 
-| Serial Number | Name | Url |
-|:--------------|:------|:--|
-| 1 | Matrix Addition | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/MatrixAddition.java) |
-| 2 | Fibonacci Series | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Fibonacci.java) |
-| 3 | Number Palindrome | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/StringPalindrome.java) |
-| 4 | Merge Sort | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/MergeSort.java) |
-| 5 | Exception Handling | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/ExceptionHandlingDemo.java) |
-| 6 | File Handling | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/FileHandling.java) |
-| 7 | String Tokenizer | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/StringTokenizerExample.java) |
-| 8 | Swing Demo | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/SwingDemo.java) |
-| 9 | Mulitple Thread Creation | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Multiple_thread_creation.java) |
-| 10 | Calculator using Swing | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/CalculatorSwing.java) |
-| 11 | Traffic Light Using Swing | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/TrafficLightSwing.java) |
-| 12 | Writing Prime Numbers Onto File | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/prime_txt.java) |
-| 13 | Sum Of Numbers In A File | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Sum_ofintegers.java) |
+| S.No | Basic Java Programs                  | Url |
+|------|:----------------------|:----|
+| 1    | String Palindrome     | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/StringPalindrome.java) |
+| 2    | Frequency of a given character | TBD |
+| 3    | Matrix Multiplication  | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/MatrixMultiplication.java) |
+| 4    | Matrix Addition        | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/MatrixAddition.java) |
+| 5    | Fibonacci Series       | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Fibonacci.java) |
+| 6    | Number Palindrome      | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/StringPalindrome.java) |
 
+| S.No | OOP Concepts                         | Url |
+|------|:-----------------------------|:----|
+| 7    | Inheritance in Java          | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/InheritanceExample.java) |
+| 8    | Polymorphism in Java         | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/AbstractClass.java) |
+| 9    | Garbage Collection in Java   | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/GarbageCollector.java) |
+| 10   | Function Overloading in Java  | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/FunctionOverloading.java) |
 
+| S.No | GUI Programming                        | Url |
+|------|:----------------------------|:----|
+| 11   | Swing Demo                  | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/SwingDemo.java) |
+| 12   | Calculator using Swing      | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/CalculatorSwing.java) |
+| 13   | Traffic Light Using Swing   | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/TrafficLightSwing.java) |
+
+| S.No | File Handling                       | Url |
+|------|:---------------------------|:----|
+| 14   | File Handling              | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/FileHandling.java) |
+| 15   | String Tokenizer           | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/StringTokenizerExample.java) |
+| 16   | Writing Prime Numbers Onto File | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/prime_txt.java) |
+| 17   | Sum Of Numbers In A File    | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Sum_ofintegers.java) |
+
+| S.No | Others                   | Url |
+|------|:-----------------------|:----|
+| 18   | Merge Sort              | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/MergeSort.java) |
+| 19   | Exception Handling      | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/ExceptionHandlingDemo.java) |
+| 20   | Multiple Thread Creation | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Multiple_thread_creation.java) |
