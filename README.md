@@ -18,19 +18,20 @@
 
 ### Other programs
 
-| Name | Url |
-|:------|:--|
-| Matrix Addition | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/MatrixAddition.java) |
-| Fibonacci Series | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Fibonacci.java) |
-| Number Palindrome | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/StringPalindrome.java) |
-| Merge Sort | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/MergeSort.java) |
-| Exception Handling | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/ExceptionHandlingDemo.java) |
-| File Handling | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/FileHandling.java) |
-| String Tokenizer | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/StringTokenizerExample.java) |
-| Swing Demo | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/SwingDemo.java) |
-| Mulitple Thread Creation | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Multiple_thread_creation.java) |
-| Calculator using Swing | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/CalculatorSwing.java) |
-| Traffic Light Using Swing | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/TrafficLightSwing.java) |
-| Writing Prime Numbers Onto File | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/prime_txt.java) |
-| Sum Of Numbers In A File | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Sum_ofintegers.java) |
+| Serial Number | Name | Url |
+|:--------------|:------|:--|
+| 1 | Matrix Addition | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/MatrixAddition.java) |
+| 2 | Fibonacci Series | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Fibonacci.java) |
+| 3 | Number Palindrome | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/StringPalindrome.java) |
+| 4 | Merge Sort | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/MergeSort.java) |
+| 5 | Exception Handling | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/ExceptionHandlingDemo.java) |
+| 6 | File Handling | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/FileHandling.java) |
+| 7 | String Tokenizer | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/StringTokenizerExample.java) |
+| 8 | Swing Demo | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/SwingDemo.java) |
+| 9 | Mulitple Thread Creation | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Multiple_thread_creation.java) |
+| 10 | Calculator using Swing | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/CalculatorSwing.java) |
+| 11 | Traffic Light Using Swing | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/TrafficLightSwing.java) |
+| 12 | Writing Prime Numbers Onto File | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/prime_txt.java) |
+| 13 | Sum Of Numbers In A File | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Sum_ofintegers.java) |
+
 
