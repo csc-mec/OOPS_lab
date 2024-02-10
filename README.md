@@ -32,4 +32,5 @@
 | Calculator using Swing | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/CalculatorSwing.java) |
 | Traffic Light Using Swing | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/TrafficLightSwing.java) |
 | Writing Prime Numbers Onto File | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/prime_txt.java) |
+| Sum Of Numbers In A File | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Sum_ofintegers.java) |
 
