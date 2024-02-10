@@ -60,3 +60,4 @@
 | 18   | Merge Sort              | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/MergeSort.java) |
 | 19   | Exception Handling      | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/ExceptionHandlingDemo.java) |
 | 20   | Multiple Thread Creation | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Multiple_thread_creation.java) |
+| 20   | Doubly Linked List | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/DLinkedList.java) |
