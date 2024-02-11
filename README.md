@@ -35,6 +35,8 @@
 | 8    | Polymorphism in Java         | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/AbstractClass.java) |
 | 9    | Garbage Collection in Java   | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/GarbageCollector.java) |
 | 10   | Function Overloading in Java  | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/FunctionOverloading.java) |
+| 10   | Passing Object as Argument  | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Poly.java) |
+
 
 ### GUI Programming
 
