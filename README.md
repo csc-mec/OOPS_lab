@@ -35,29 +35,31 @@
 | 8    | Polymorphism in Java         | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/AbstractClass.java) |
 | 9    | Garbage Collection in Java   | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/GarbageCollector.java) |
 | 10   | Function Overloading in Java  | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/FunctionOverloading.java) |
+| 11   | Passing Object as Argument  | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Poly.java) |
+
 
 ### GUI Programming
 
 | S.No | Name                        | Url |
 |------|:----------------------------|:----|
-| 11   | Swing Demo                  | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/SwingDemo.java) |
-| 12   | Calculator using Swing      | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/CalculatorSwing.java) |
-| 13   | Traffic Light Using Swing   | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/TrafficLightSwing.java) |
+| 12   | Swing Demo                  | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/SwingDemo.java) |
+| 13   | Calculator using Swing      | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/CalculatorSwing.java) |
+| 14   | Traffic Light Using Swing   | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/TrafficLightSwing.java) |
 
 ### File Handling
 
 | S.No | Name                       | Url |
 |------|:---------------------------|:----|
-| 14   | File Handling              | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/FileHandling.java) |
-| 15   | String Tokenizer           | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/StringTokenizerExample.java) |
-| 16   | Writing Prime Numbers Onto File | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/prime_txt.java) |
-| 17   | Sum Of Numbers In A File    | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Sum_ofintegers.java) |
+| 15   | File Handling              | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/FileHandling.java) |
+| 16   | String Tokenizer           | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/StringTokenizerExample.java) |
+| 17   | Writing Prime Numbers Onto File | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/prime_txt.java) |
+| 18   | Sum Of Numbers In A File    | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Sum_ofintegers.java) |
 
 ### Others
 
 | S.No | Name                   | Url |
 |------|:-----------------------|:----|
-| 18   | Merge Sort              | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/MergeSort.java) |
-| 19   | Exception Handling      | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/ExceptionHandlingDemo.java) |
-| 20   | Multiple Thread Creation | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Multiple_thread_creation.java) |
-| 21   | Doubly Linked List | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/DLinkedList.java) |
+| 19   | Merge Sort              | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/MergeSort.java) |
+| 20   | Exception Handling      | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/ExceptionHandlingDemo.java) |
+| 21   | Multiple Thread Creation | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/Multiple_thread_creation.java) |
+| 22   | Doubly Linked List | [Link](https://github.com/csc-mec/OOPS_lab/blob/main/DLinkedList.java) |
